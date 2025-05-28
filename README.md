@@ -78,5 +78,8 @@ Si te interesa la economía, los datos o el desarrollo backend y querés aportar
 
 Hecho con ❤️ por Giuliano Sacco
 
+🛡️ Licencia: Creative Commons BY-NC 4.0 © 2025 Giuliano Sacco  
+Este proyecto es de código abierto solo para fines no comerciales.
+
 
 
