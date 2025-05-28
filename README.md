@@ -1,4 +1,4 @@
-# Monitor-Econom-a-Uruguay-
+# Monitor-Economia-Uruguay-
 
 ⸻
 # 🇺🇾 Monitor Económico Nacional – API RESTful
@@ -44,7 +44,7 @@ Está pensado para ser útil a:
 
 ## 📦 Ejemplo de Endpoint
 
-```http
+
 GET /api/economia/inflacion
 
 Devuelve:
@@ -57,8 +57,8 @@ Devuelve:
   "fuente": "INE"
 }
 
+------
 
-⸻
 
 🚀 Objetivos del Proyecto
 	•	✅ Unificar datos económicos clave en una sola API
